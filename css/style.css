@@ -248,7 +248,7 @@ a.head-button {
     margin-bottom: 60px;
   }
 }
-/* DESKTOP */
+/*  DESKTOP  */
 @media screen and (min-width: 1199px) {
   h1 {
     font-size: 3.25rem;
